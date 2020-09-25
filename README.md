@@ -16,11 +16,7 @@ Webframework zur Erstellung von 3D/AR und VR Anwendungen
 
 Die Beispiel-Anwendung kann den [Hiro](https://github.com/artoolkit/ARToolKit5/blob/master/doc/patterns/Hiro%20pattern.pdf) und den [Kanji](https://github.com/artoolkit/ARToolKit5/blob/master/doc/patterns/Kanji%20pattern.pdf) Marker erkennen und legt entsprechende Objekte über die Marker.
 
-<img src="https://raw.githubusercontent.com/saspengler/markerReco/master/marker/hiro.png" width="48">
-<img src="https://raw.githubusercontent.com/saspengler/markerReco/master/marker/kanji.png" width="48">
-
-
-![Hiro](https://raw.githubusercontent.com/saspengler/markerReco/master/marker/hiro.png) ![Kanji](https://raw.githubusercontent.com/saspengler/markerReco/master/marker/kanji.png){:width="50%"}
+<img src="https://raw.githubusercontent.com/saspengler/markerReco/master/marker/hiro.png" width="256"> <img src="https://raw.githubusercontent.com/saspengler/markerReco/master/marker/kanji.png" width="256">
 
 
 *** 
