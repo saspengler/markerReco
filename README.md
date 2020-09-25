@@ -1,14 +1,14 @@
 # AR.js - Augmented Reality on the Web
 
 Ar.js ist eine lightweight Library für die Entwicklung von Web AR-Anwendungen.
-Es können Marker und Bilder, sowie Location basierte Anwendungen erstellt werden.
+Es können Marker und Bilder, sowie Location basierte Anwendungen erstellt werden.  
 [Dokumentation](https://ar-js-org.github.io/AR.js-Docs/)
 
 ## NFT Marker Creator
 [Web App](https://carnaux.github.io/NFT-Marker-Creator/) oder die [Node App](https://github.com/Carnaux/NFT-Marker-Creator) zur Erstellung der Marker mit [Anleitung](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers) für gut geeignete Marker.
 
 ## [A-Frame](https://aframe.io/)
-Webframework zur Erstellung von 3D/AR und VR Anwendungen
+Webframework zur Erstellung von 3D/AR und VR Anwendungen  
 [Tutorial](https://aframe.io/docs/1.0.0/guides/building-a-basic-scene.html)
 
 
